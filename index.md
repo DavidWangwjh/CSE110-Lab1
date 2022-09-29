@@ -20,7 +20,7 @@ code quote
 
 
 <!--Relative links-->
-[Relative Link](path)
+[CSE110 lab1 readme](https://github.com/DavidWangwjh/CSE110-Lab1/blob/add-user-page/README.md)
 
 <!--Pictures-->
 ![image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGZDnK6Zwl2Z3KeIGvu167mu4RBY1GVOnXEqW5rA9fqw&s)
