@@ -8,33 +8,33 @@
 ### As a person
 I'm currently a **4th-year Computer Science** major student studying at the **University of California, San Diego**.
 
-<!--Quoting text-->
+My background
 > This is a text quote
+
+
+My life bucket list
+<!--Task lists-->
+- [ ] smth
+- [x] smth
+- [ ] smth
 
 <!--Quoting code-->
 ```
 code quote
 ```
 
-<!--External Links-->
-([My LinkedIn](https://www.linkedin.com/in/david-wang-wjh7/)
-([My GitHub](https://github.com/DavidWangwjh)
+Find me on
+- [My LinkedIn](https://www.linkedin.com/in/david-wang-wjh7/)
+- [My GitHub](https://github.com/DavidWangwjh)
 
 
 <!--Section links-->
 
 
 <!--Relative links-->
-[Link Name](path)
-
-  
-<!--Unordered list-->
-- a
-- b
+[Relative Link](path)
 
 
-<!--Task lists-->
-- [ ] task1
-- [x] task2
+
 
 ### As a programmer
