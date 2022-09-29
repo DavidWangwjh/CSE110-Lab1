@@ -1,22 +1,25 @@
 <!--Pictures-->
-![image of myself](/images/me.jpgs/)
+![image]()
 
-<!--Headings-->
 # David's User Page
-
-<!--Styling text-->
-I'm a 4th-year CS major student studying at **University of California, San Diego**
+## Table of Contents
+1. Me as a person
+2. Me as a programmer
+### As a person
+I'm currently a **4th-year Computer Science** major student studying at the **University of California, San Diego**.
 
 <!--Quoting text-->
 > This is a text quote
 
 <!--Quoting code-->
-'''
+```
 code quote
-'''
+```
 
 <!--External Links-->
-[Link Name](url)
+([My LinkedIn](https://www.linkedin.com/in/david-wang-wjh7/)
+([My GitHub](https://github.com/DavidWangwjh)
+
 
 <!--Section links-->
 
@@ -24,15 +27,14 @@ code quote
 <!--Relative links-->
 [Link Name](path)
 
-<!--Unordered list-->
-- unordered
-- list
   
-<!--Ordered list-->
-1. ordered
-2. list
+<!--Unordered list-->
+- a
+- b
 
 
 <!--Task lists-->
 - [ ] task1
 - [x] task2
+
+### As a programmer
