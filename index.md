@@ -3,8 +3,8 @@
 
 # David's User Page
 ## Table of Contents
-1. Me as a person
-2. Me as a programmer
+- [As a person](#as-a-person)
+- [As a programmer](#as-a-programmer)
 ### As a person
 I'm currently a **4th-year Computer Science** major student studying at the **University of California, San Diego**.
 
@@ -24,8 +24,8 @@ code quote
 ```
 
 Find me on
-- [My LinkedIn](https://www.linkedin.com/in/david-wang-wjh7/)
-- [My GitHub](https://github.com/DavidWangwjh)
+- [LinkedIn](https://www.linkedin.com/in/david-wang-wjh7/)
+- [GitHub](https://github.com/DavidWangwjh)
 
 
 <!--Section links-->
