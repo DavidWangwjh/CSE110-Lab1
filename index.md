@@ -1,37 +1,38 @@
-// Pictures
-![image description](link)
+<!--Pictures-->
+![image of myself](/images/me.jpgs/)
 
-// Headings
+<!--Headings-->
 # David's User Page
 
-// Styling text
+<!--Styling text-->
 I'm a 4th-year CS major student studying at **University of California, San Diego**
 
-// Quoting text
+<!--Quoting text-->
 > This is a text quote
 
-// Quoting code
+<!--Quoting code-->
 '''
 code quote
 '''
 
-// External Links
+<!--External Links-->
 [Link Name](url)
 
-// Section links
+<!--Section links-->
 
 
-// Relative links
+<!--Relative links-->
 [Link Name](path)
 
-// Ordered and Unordered Lists
+<!--Unordered list-->
 - unordered
 - list
   
+<!--Ordered list-->
 1. ordered
 2. list
 
 
-// Task lists
+<!--Task lists-->
 - [ ] task1
 - [x] task2
