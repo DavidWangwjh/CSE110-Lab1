@@ -1,31 +1,19 @@
-<!--Pictures-->
-![image]()
-
 # David's User Page
 ## Table of Contents
 - [As a person](#as-a-person)
 - [As a programmer](#as-a-programmer)
+- [Find me on](#find-me-on)
 ### As a person
 I'm currently a **4th-year Computer Science** major student studying at the **University of California, San Diego**.
 
-My background
-> This is a text quote
+**My background**
+> I grew up in...
 
-
-My life bucket list
-<!--Task lists-->
-- [ ] smth
-- [x] smth
-- [ ] smth
 
 <!--Quoting code-->
 ```
 code quote
 ```
-
-Find me on
-- [LinkedIn](https://www.linkedin.com/in/david-wang-wjh7/)
-- [GitHub](https://github.com/DavidWangwjh)
 
 
 <!--Section links-->
@@ -34,7 +22,22 @@ Find me on
 <!--Relative links-->
 [Relative Link](path)
 
-
+<!--Pictures-->
+![image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGZDnK6Zwl2Z3KeIGvu167mu4RBY1GVOnXEqW5rA9fqw&s)
 
 
 ### As a programmer
+I started programming in my last year of high school.
+
+**My career bucket list**
+- [ ] Graduate in Fall 2023
+- [x] Work for a startup
+- [ ] Get a SWE intership offer
+- [ ] Work at FAANG
+- [ ] Create my own startup
+- [ ] Become a millionaire 
+- [ ] Become a billionaire
+
+### Find me on
+- [LinkedIn](https://www.linkedin.com/in/david-wang-wjh7/)
+- [GitHub](https://github.com/DavidWangwjh)
