@@ -1,9 +1,9 @@
 # David's User Page
 ## Table of Contents
-- [As a person](#as-a-person)
-- [As a programmer](#as-a-programmer)
+1. [As a person](#as-a-person)
+2. [As a programmer](#as-a-programmer)
 ### As a person
-> I'm currently a **4th-year Computer Science** major student studying at the **University of California, San Diego**.
+> I'm currently a **4th-year _Computer Science_** major student studying at the **University of California, San Diego**.
 
 ```
 git add .
@@ -15,13 +15,14 @@ git add .
 
 
 ### As a programmer
-I started programming in my last year of high school.
+- Started programming in my last year of high school.
+- Went to a community college for 2 years
+- Transfered to UCSD in fall 2021
+
+My [LinkedIn](https://www.linkedin.com/in/david-wang-wjh7/)
 
 **My career bucket list**
-- [ ] Graduate in Fall 2023
 - [x] Work for a startup
 - [ ] Get a SWE intership offer
 - [ ] Work at FAANG
 - [ ] Create my own startup
-- [ ] Become a millionaire 
-- [ ] Become a billionaire
